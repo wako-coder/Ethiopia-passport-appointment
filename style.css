@@ -1,0 +1,68 @@
+body{
+	font-family: arial, helvetica, sans-serif;
+	margin: auto;
+	background-color: #ffffff;;
+
+}
+#myform{
+	margin: auto;
+	margin-top: 6%;
+	text-align: center;
+	box-shadow: 0px 1px 9px 0px rgba(0,0,0, 0.2);
+	border-radius: 10px;
+	width: 400px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+        background: #ffffff;
+}
+input{
+	margin: auto;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border-width: 0px;
+	width: 60%;
+	background: #f7f7f7;
+}
+.button{
+	font-weight: bold;
+	background-color: #519aff;
+	margin: 10px;
+	color: white;
+	width: 60%;
+	border-radius: 20px;
+	padding: 10px;
+	border-width: 0px;
+	border-radius: 20px;
+	padding: 10px;
+	border-width: 0px;
+}
+input{
+	padding: 10px;
+	border-width: 0px;
+	border-radius: 20px;
+
+}
+.sp{
+	font-weight: bold;
+
+}
+h2{
+	padding: 0px;
+	margin: 0px;
+	margin-top: 30px;
+
+}
+p{
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 30px;
+	margin-top: 5px;
+
+
+}
+.img{
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	box-shadow: inset 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
